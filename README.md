@@ -26,4 +26,4 @@ Final model achieved:
 
 1. Clone this repository
 2. Install requirements: `pip install -r requirements.txt`
-3. Download dataset from [Kaggle](https://www.kaggle.com/datasets/...)
+3. Download dataset from [Kaggle]([https://www.kaggle.com/datasets/...](https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download))
