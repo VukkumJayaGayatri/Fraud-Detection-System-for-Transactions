@@ -20,7 +20,7 @@ Final model achieved:
 - Accuracy: 99.96%
 - Precision: 0.74
 - Recall: 0.76
-- F1-score: 0.73 (at threshold=0.675)
+- F1-score: 0.73 (at threshold=0.875)
 
 ## Installation
 
